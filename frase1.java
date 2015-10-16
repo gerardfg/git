@@ -10,7 +10,7 @@ package numerospetit;
  *
  * @author hp
  */
-//importem uril arrays i scanner
+//ismportem uril arrays i scanner
 import java.util.Arrays;
 import java.util.Scanner;
 
